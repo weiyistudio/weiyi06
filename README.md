@@ -48,7 +48,6 @@ SSM个人体检记录管理web系统的设计与实现
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 
-工作室长期接单 招校园实力代理
-需要源码请加我一下联系方式
+
 联系Q：2762501186
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1119/003728_cd598bb9_4865385.jpeg "微信.jpg")
